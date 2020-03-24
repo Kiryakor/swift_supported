@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  onlineChat
-//
-//  Created by Кирилл on 24.03.2020.
-//  Copyright © 2020 Кирилл. All rights reserved.
-//
+//загрузка режима canvas для UIKit
 
 import UIKit
 
